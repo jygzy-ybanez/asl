@@ -1,0 +1,6 @@
+﻿data/
+MP_Data/
+*.npz
+*.npy
+*.h5
+.gitattributes
