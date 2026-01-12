@@ -1,7 +1,7 @@
 1. Data Setup
 This repository contains the code logic only. To run the project, you must first download the dataset:
 
-Download Link: [Insert Link Here]
+Download Link: [https://drive.google.com/drive/folders/1Gkj5oVIFq3mZYV9pAPzZ936AF5vv7mkn?usp=sharing]
 
 Setup: Extract the data and ensure your folder follows this structure:
 ARCHIVE/
